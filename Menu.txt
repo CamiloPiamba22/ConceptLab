@@ -5,7 +5,8 @@ CAFETERÍA OPENAI
 Bebidas:
 
 - Café
-    No hay Café
+    Ahora si hay Café, pero no te lo quiero vender .|.._
+
 - Té
     Tampoco hay té
 
