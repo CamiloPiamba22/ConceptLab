@@ -5,11 +5,14 @@ CAFETERÍA OPENAI
 Bebidas:
 
 - Café
-
+    No hay Café
 - Té
+    Tampoco hay té
 
  
 
 Postres:
+    Dejate los azucares
 
 - Tarta de queso
+    Es tentadora la opción, pero no comas kk
