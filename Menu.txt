@@ -10,8 +10,6 @@ Bebidas:
 - Té
     No hay te mamh, que pesado que eres wey!
 
- 
-
 Postres:
     Dejate los azucares
 
